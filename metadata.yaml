@@ -1,0 +1,30 @@
+_repo: Locke_46130
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46130-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fowler, Thomas
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '4189'
+    url: http://www.gutenberg.org/2009/agents/4189
+description: Published in 1880 as part of the English Men of Letters series, the book
+  presents a detailed biographical portrait of John Locke. Locke, known as the Father
+  of Liberalism, was an influential Enlightenment thinker and helped to establish
+  British empiricism. Written in a lively narrative, it is a highly readable account
+  of the philosopher's life.
+gutenberg_issued: '2014-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Locke, John, 1632-1704'
+- !lcc 'B'
+title: Locke
+url: http://www.gutenberg.org/ebooks/46130
