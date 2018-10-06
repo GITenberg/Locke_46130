@@ -28,5 +28,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Locke, John, 1632-1704'
 - !lcc 'B'
+- GITenberg
 title: Locke
 url: http://www.gutenberg.org/ebooks/46130
